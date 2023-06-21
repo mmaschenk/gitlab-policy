@@ -20,7 +20,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: default
+      layout: watermark
   
 
 search_enabled: true
