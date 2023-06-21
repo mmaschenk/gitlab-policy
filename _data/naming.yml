@@ -1,0 +1,8 @@
+servicename: gitlab@tudelft
+team: gitlab@tudelft team
+teammail: gitlab@tudelft.nl
+servername: gitlab.tudelft.nl
+defaultrepottl: 10 years
+defaultreposizelimit: 100 MBytes
+largereposizelimit: 1 GBytes
+policydate: 1-1-2024
