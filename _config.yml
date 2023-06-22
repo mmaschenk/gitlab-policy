@@ -10,6 +10,7 @@ color_scheme: tudelft
 
 exclude:
   - DEVELOPMENT.md
+  - vendor
 
 defaults:
   - scope: 
