@@ -8,6 +8,8 @@ theme: just-the-docs
 
 color_scheme: tudelft
 
+baseurl: gitlab-policy
+
 exclude:
   - DEVELOPMENT.md
   - vendor
